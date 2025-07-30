@@ -34,6 +34,18 @@
 
 ---
 
+### 🚀 **Мои проекты**
+<div align="center">
+
+| Проект | Описание | Технологии | Ссылка |
+|--------|----------|------------|--------|
+| **Quantum Telemetry DAQ** | Фреймворк для сбора данных в физических экспериментах | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Data Acquisition](https://img.shields.io/badge/Data_Acquisition-8A2BE2) | [![GitHub](https://img.shields.io/badge/Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Timofei-Balabin/QuantumTelemetry-DAQ-Framework) |
+| **Numerical Modeling** | Численное моделирование задач теоретической механики | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?logo=matplotlib&logoColor=white) | [![GitHub](https://img.shields.io/badge/Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Timofei-Balabin/Numerical-modeling-in-theoretical-mechanics) |
+
+</div>
+
+---
+
 ### 📝 **Образовательный трек**
 - **НИЯУ МИФИ**  
 - <strong>Высшая математика</strong>: Линейная алгебра, Кратные интегралы, Ряды
